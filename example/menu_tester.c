@@ -41,7 +41,7 @@ int main()
 			break;
 	}
 	e = menu3();
-		switch (e)
+	switch (e)
 	{
 		case 1:
 			printf("You have selected 1\n");
