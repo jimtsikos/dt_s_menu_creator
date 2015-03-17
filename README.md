@@ -1,5 +1,5 @@
 # DT's MENU CREATOR
-BoMyF (Bootstrap &amp; MySQL Framework) is a complete set of classes and functions, written in php, that helps you creating dynamic webpages, in just a few lines of code!
+DT's MENU CREATOR is a c program that allows you to create quickly header files that contains menus for your program.
 
 # Full Documantation
 You can see the full documantation at http://general.tsikopoulos.eu
